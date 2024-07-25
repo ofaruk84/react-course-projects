@@ -14,7 +14,6 @@ export default function Header() {
   }, 0);
 
   function handleShowCart() {
-
     userProgressCtx.showCart();
   }
   return (
